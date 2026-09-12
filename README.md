@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
 
-<!--
-**aseque88/aseque88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷 Based in Paris | 🎓 AI & Computer Science
 
-Here are some ideas to get you started:
+Double Bachelor's degree in **AI (Computer Science & Mathematics)** and **Organizational Sciences (Economics & Management)** from Université Paris Dauphine-PSL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing a **Master's degree in Computer Science — AI & Data Science**.
+
+**Python · PyTorch · C · SQL**
+
+Always eager to **learn, exchange ideas, and share knowledge**.
+
+> *Love what you do, and excellence follows.*
